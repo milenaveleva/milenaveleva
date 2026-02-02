@@ -27,9 +27,9 @@
 > ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
 > ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
 
-- 🔭 I’m currently working ... on Mountea Framework.
-- 🌱 I’m currently learning ... agentic workflows.
-- 💬 Ask me about ... wicked game ideas.
-- 📫 How to reach me: ... send me a mail.
-- 😄 Pronouns: ... sudo/doas
-- ⚡ Fun fact: ... single-colored screens freak me out.
+- 🔭 I’m currently working on Mountea Framework.
+- 🌱 I’m currently learning agentic workflows.
+- 💬 Ask me about wicked game ideas.
+- 📫 How to reach me: send me a mail.
+- 😄 Pronouns: sudo/doas
+- ⚡ Fun fact: single-colored screens freak me out.
